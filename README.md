@@ -27,7 +27,7 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
  
 ### Deliverable 3
 ![This is an imgae](https://github.com/kellyd7/MechaCar_Statistical_Analysis/blob/main/Images/Suspension%20Coil%20ttest%20(Deliverable%203).png)
-- A review of the results of the T-test for the suspension coils across all manufacturing lots shows that they are not statistically different from the population mean, and the p-value is not low enough (0.0603) for us to reject the null hypothesis.
+- A review of the results of the T-test for the suspension coils across all manufacturing lots shows that they are not statistically different from the population mean, and the p-value is not low enough (0.06028) for us to reject the null hypothesis.
 
 ![This is an imgae](https://github.com/kellyd7/MechaCar_Statistical_Analysis/blob/main/Images/Lot1%20ttest%20(Deliverable%203).png)
 - A review of the results of the T-test for the suspension coils for Lot 1 shows that they are not statistically different from the population mean, and the p-value is not low enough for us to reject the null hypothesis.
@@ -36,6 +36,6 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
 - A review of the results of the T-test for the suspension coils for Lot 2 shows that they are not statistically different from the population mean, and the p-value is not low enough (0.6072) for us to reject the null hypothesis.
 
 ![This is an imgae](https://github.com/kellyd7/MechaCar_Statistical_Analysis/blob/main/Images/Lot3%20ttest%20(Deliverable%203).png)
-- A review of the results of the T-test for the suspension coils for Lot 3 shows that they are slightly statistically different from the population mean, and the p-value is just low enough (0.0417) for us to reject the null hypothesis. This lot may be need to be discarded, or at least more closely evaluated.
+- A review of the results of the T-test for the suspension coils for Lot 3 shows that they are slightly statistically different from the population mean, and the p-value is just low enough (0.0417) for us to reject the null hypothesis.
 
 ## Study Design: MechaCar vs Competition
