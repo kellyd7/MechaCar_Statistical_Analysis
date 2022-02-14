@@ -22,7 +22,7 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
 ### Deliverable 2
 ![This is an imgae](https://github.com/kellyd7/MechaCar_Statistical_Analysis/blob/main/Images/Total%20Summary%20(Deliverable%202).png)
 ![This is an imgae](https://github.com/kellyd7/MechaCar_Statistical_Analysis/blob/main/Images/Lot%20Summary%20(Deliverable%202).png)
-- While the overall variance, as shown in the Total Summary data above, is under 100 psi and meets specifications, there is a problem with one of the individual lots. As shown in the Lot Summary stats, the variance for Lot 3 is well over the acceptable threshold, at 170.28.
+- While the overall variance, as shown in the Total Summary data above, is under 100 psi and meets specifications, there is a problem with one of the individual lots. As shown in the Lot Summary stats, the variance for Lot 3 is well over the acceptable threshold, at 170.
 
  
 ### Deliverable 3
