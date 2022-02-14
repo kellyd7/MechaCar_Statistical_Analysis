@@ -39,3 +39,15 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
 - A review of the results of the T-test for the suspension coils for Lot 3 shows that they are slightly statistically different from the population mean, and the p-value is just low enough (0.0417) for us to reject the null hypothesis.
 
 ## Study Design: MechaCar vs Competition
+### Metric to test
+We should evaluate MechaCar's carrying capacity in comparison to various competitors' vehicles.
+
+### Null and Alternate Hypothesis
+Null Hypothesis:MechaCar vehicles average carrying capacity is similar to competitor's vehicles carrying capacity in the same vehicle class. 
+Alternate Hyptothesis: MechaCar vehicles average carrying capacity is statistically above or below that of competitor vehicles carrying capacity.
+
+### Statistical Test Used
+The best statistical test for this would be two-sample t-tests.
+
+### What data is needed
+We would need data from the carrying capacities from all MechaCar vehicles and all of MechaCar's competitors.
