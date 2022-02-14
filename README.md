@@ -43,7 +43,7 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
 We should evaluate MechaCar's carrying capacity in comparison to various competitors' vehicles.
 
 ### Null and Alternate Hypothesis
-Null Hypothesis:MechaCar vehicles average carrying capacity is similar to competitor's vehicles carrying capacity in the same vehicle class. 
+Null Hypothesis: MechaCar vehicles average carrying capacity is similar to competitor's vehicles carrying capacity in the same vehicle class. 
 Alternate Hyptothesis: MechaCar vehicles average carrying capacity is statistically above or below that of competitor vehicles carrying capacity.
 
 ### Statistical Test Used
